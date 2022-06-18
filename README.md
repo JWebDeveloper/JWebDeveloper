@@ -1,6 +1,7 @@
-- 👋 Hi,I'm an IT professional with fourteen years plus experience.
+- 👋 Hi Everyone, My name is Jatinder Kumar.
+-       I am an IT professional with fourteen years plus experience.
 - 👀 My area of interest includes Web Designing, Hosting and Training.
-- I am using HTML, CSS, Bootstrap, PHP codeigniter and Worpress to create webportals.
+-       I am using HTML, CSS, Bootstrap, PHP codeigniter and Worpress to create webportals.
 - 
 - 🌱 I’m currently working on Full stack Developer technologies MEAN Stack 
 -  💞️ I’m looking to collaborate on Webdesigning 
